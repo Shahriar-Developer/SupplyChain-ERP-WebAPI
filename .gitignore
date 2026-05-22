@@ -1,0 +1,27 @@
+
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosprefs
+*.sln.docstates
+
+# Appsettings (Secret Info - DB Connection Strings)
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Local.json
+
+
+
+logs/
+*.log
+
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
