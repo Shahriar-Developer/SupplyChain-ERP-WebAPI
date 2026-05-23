@@ -67,14 +67,3 @@ The project follows a highly decoupled directory structure:
 
 ---
 
-## Getting Started & Local Environment Setup
-
-### Prerequisites
-- .NET 6.0 / 7.0 SDK or higher
-- MS SQL Server (Local or Dockerized)
-- Visual Studio 2022 / JetBrains Rider / VS Code
-
-### Installation & Execution
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Shahriar-Developer/SupplyChain-ERP-WebAPI.git](https://github.com/Shahriar-Developer/SupplyChain-ERP-WebAPI.git)
